@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jong1han.github.io/static/css/main.63241970.css",
+    "main.js": "/jong1han.github.io/static/js/main.25221b99.js",
+    "static/media/hero-dark.jpg": "/jong1han.github.io/static/media/hero-dark.37f2556d620821979e99.jpg",
+    "static/media/hero-light.jpg": "/jong1han.github.io/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
+    "service-worker.js": "/jong1han.github.io/service-worker.js",
+    "static/media/revicons.eot": "/jong1han.github.io/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/jong1han.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/jong1han.github.io/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/GH.svg": "/jong1han.github.io/static/media/GH.b9e9a9aa6f05e9dfe5dcb8991bda3e4d.svg",
+    "static/media/defaultNavLogo.svg": "/jong1han.github.io/static/media/defaultNavLogo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/jong1han.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jong1han.github.io/index.html",
+    "main.63241970.css.map": "/jong1han.github.io/static/css/main.63241970.css.map",
+    "main.25221b99.js.map": "/jong1han.github.io/static/js/main.25221b99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63241970.css",
+    "static/js/main.25221b99.js"
+  ]
+}
