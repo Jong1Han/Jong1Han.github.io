@@ -40,60 +40,54 @@ export const moreInfo =
   Add or remove skills in the SAME format below, choose icons here - https://icon-sets.iconify.design/
 */
 function SkillItem(props) {
-  return <OverlayTrigger placement="right" overlay={
+  return <div style={{ cursor: "pointer" }} ><OverlayTrigger trigger="click" placement="right" overlay={
     <Tooltip id="button-tooltip" {...props}>
-      {props.text}
+      {props.children}
     </Tooltip>
   }>
     <Icon icon={props.icon} className="display-4" />
-  </OverlayTrigger>;
+  </OverlayTrigger></div>;
 }
 export const skillData = [
   {
     id: 1,
     skill: <SkillItem
-      text="organ culture \n hihihaha"
-      icon="mdi:language-html5" ></SkillItem >,
+      icon="mdi:language-html5" >organ culture <br /> hihihaha</SkillItem >,
     name: "In vitro Culture",
   },
 
   {
     id: 2,
     skill: <SkillItem
-      text="adad"
-      icon="mdi:language-html5"></SkillItem>,
+      icon="mdi:language-html5">adad</SkillItem>,
     name: "adad",
   },
 
   {
     id: 3,
     skill: <SkillItem
-      text="3333"
-      icon="mdi:language-html5"></SkillItem>,
+      icon="mdi:language-html5">3333</SkillItem>,
     name: "33333",
   },
 
   {
     id: 4,
     skill: <SkillItem
-      text="44444"
-      icon="mdi:language-html5"></SkillItem>,
+      icon="mdi:language-html5">44444</SkillItem>,
     name: "a444444",
   },
 
   {
     id: 5,
     skill: <SkillItem
-      text="a5555"
-      icon="mdi:language-html5"></SkillItem>,
+      icon="mdi:language-html5">a5555</SkillItem>,
     name: "ad555555",
   },
 
   {
     id: 6,
     skill: <SkillItem
-      text="ad66666"
-      icon="mdi:language-html5"></SkillItem>,
+      icon="mdi:language-html5">ad66666</SkillItem>,
     name: "ad666666",
   },
 
