@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.bd8a011c.css",
-    "main.js": "/static/js/main.a967f596.js",
+    "main.js": "/static/js/main.2d01c2d1.js",
     "static/media/KakaoTalk_20231020_173010163.png": "/static/media/KakaoTalk_20231020_173010163.62d73a0a89eb41301115.png",
     "static/media/stony brook university.png": "/static/media/stony brook university.ae6f5c20297edfd0fb02.png",
     "static/media/konkuk university.png": "/static/media/konkuk university.6d621982aecdb7af2a4c.png",
     "static/media/jongwonhan_photo.jpg": "/static/media/jongwonhan_photo.3943b3e00e1cffdb5241.jpg",
     "static/media/hero-dark.jpg": "/static/media/hero-dark.37f2556d620821979e99.jpg",
     "static/media/hero-light.jpg": "/static/media/hero-light.78b77836d8aee4d7d3cb.jpg",
-    "static/media/project figures_3.jpg": "/static/media/project figures_3.39712d898cb70dc61596.jpg",
+    "static/media/project figures_6.jpg": "/static/media/project figures_6.4d6c2dd01d10a4ed58ae.jpg",
+    "static/media/project figures_4.jpg": "/static/media/project figures_4.39712d898cb70dc61596.jpg",
     "static/media/project figures_1.jpg": "/static/media/project figures_1.ea55679937a78785e86d.jpg",
     "static/media/project figures_2.jpg": "/static/media/project figures_2.822b3cc91be3b5b7fba3.jpg",
+    "static/media/project figures_5.jpg": "/static/media/project figures_5.04644125199652f5cb5b.jpg",
+    "static/media/project figures_3.jpg": "/static/media/project figures_3.efcde4c320164ac1162f.jpg",
     "service-worker.js": "/service-worker.js",
-    "static/media/project figures_4.jpg": "/static/media/project figures_4.b16a86bde3d5af206c38.jpg",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
@@ -21,10 +23,10 @@
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
     "main.bd8a011c.css.map": "/static/css/main.bd8a011c.css.map",
-    "main.a967f596.js.map": "/static/js/main.a967f596.js.map"
+    "main.2d01c2d1.js.map": "/static/js/main.2d01c2d1.js.map"
   },
   "entrypoints": [
     "static/css/main.bd8a011c.css",
-    "static/js/main.a967f596.js"
+    "static/js/main.2d01c2d1.js"
   ]
 }
