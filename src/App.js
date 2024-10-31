@@ -40,10 +40,15 @@ const themes = {
     background: "#F5F2E8",
   },
   dark: {
-    name: "dark",
-    color: "#FBFDFF",
-    background: "#27272A",
+    name: "light",
+    color: "#45413C",
+    background: "#F5F2E8",
   },
+  // dark: {
+  //   name: "dark",
+  //   color: "#FBFDFF",
+  //   background: "#27272A",
+  // },
 };
 
 export default function App() {
